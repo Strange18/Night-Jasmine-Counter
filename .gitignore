@@ -1,7 +1,6 @@
 *.png
 *.jpg
 *.zip
-*.txt
 dataset/
 data/
 env/
