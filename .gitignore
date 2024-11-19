@@ -1,0 +1,9 @@
+*.png
+*.jpg
+*.zip
+*.txt
+dataset/
+data/
+env/
+__pycache_
+runs/
