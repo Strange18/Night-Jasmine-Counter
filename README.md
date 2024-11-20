@@ -20,6 +20,7 @@ Then run to User Interface
 `streamlit run app.py`
 
 ## Demo Video
-![Demo Video](https://www.youtube.com/watch?v=JMre-All2ys)
+![Demo Video](https://youtu.be/JMre-All2ys)
+
 
 **P.S**: The UI might not work properly for the camera for now.
