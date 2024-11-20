@@ -21,8 +21,6 @@ Then run to User Interface
 
 ## Demo Video
 
-<video width=auto height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+[![Watch the video]](https://raw.githubusercontent.com/strange18/Night-Jasmine-Counte/main/demo.mp4)
 
 **P.S**: The UI might not work properly for the camera for now.
