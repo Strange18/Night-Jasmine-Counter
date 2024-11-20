@@ -24,5 +24,5 @@ Then run to User Interface
 Watch Demo Here
 </a>
 
-<br>
+
 **P.S**: The UI might not work properly for the camera for now.
