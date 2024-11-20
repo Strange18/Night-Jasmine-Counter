@@ -21,6 +21,7 @@ Then run to User Interface
 
 ## Demo Video
 
-[![Watch the video]](https://raw.githubusercontent.com/strange18/Night-Jasmine-Counte/main/demo.mp4)
+[![Watch the video]](https://youtu.be/JMre-All2ys)
+[![Watch the video]]()
 
 **P.S**: The UI might not work properly for the camera for now.
