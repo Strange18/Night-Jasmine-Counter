@@ -20,7 +20,9 @@ Then run to User Interface
 `streamlit run app.py`
 
 ## Demo Video
-![Demo Video](dataset_sample.jpg)(https://youtu.be/JMre-All2ys)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+Watch Demo Here
+</a>
 
 
 **P.S**: The UI might not work properly for the camera for now.
