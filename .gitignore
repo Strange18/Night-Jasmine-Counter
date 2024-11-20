@@ -1,8 +1,7 @@
-*.png
-*.jpg
 *.zip
 dataset/
 data/
 env/
 __pycache__
 runs/
+test/
