@@ -21,9 +21,8 @@ Then run to User Interface
 
 ## Demo Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JMre-All2ys" target="_blank">
-  
 Watch Demo Here
 </a>
 
-
+<br>
 **P.S**: The UI might not work properly for the camera for now.
